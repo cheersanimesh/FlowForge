@@ -1,4 +1,6 @@
-# FlowForge - Workflow Engine
+#  FlowForge - Workflow Engine
+
+<img src="frontend/src/images/flow_forge_logo.png" width="200">
 
 Link : https://flowforge-6a1b1.web.app/
 
